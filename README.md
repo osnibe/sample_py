@@ -1,6 +1,8 @@
-# init
-git config --global user.email "osnibe@gmail.com"  
-git config --global user.name "Osanori Nibe"  
+# データ型
+リスト: データが並んだもの
+タプル: データが並んだもの（変更不可）
+セット: データが並んだもの（重複不可）
+辞書: キーと値がセットになったもの
 
 # sample_py
 git clone git@github.com:osnibe/sample_py.git
